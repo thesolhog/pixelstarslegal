@@ -4,7 +4,7 @@
 
 ## Overview
 
-Pixel Stars: Arcade Hockey is a single-player arcade hockey game. We are committed to protecting your privacy. This policy explains what data we collect (very little) and how it is used.
+Pixel Stars: Arcade Hockey is a single-player arcade hockey game. We are committed to protecting your privacy. **We do not collect any data from you, period.** This policy explains how the app works and what that means for you.
 
 ## No Personal Data Collected
 
@@ -14,16 +14,9 @@ We do not collect, store, or transmit any personal information. The app does not
 
 The app contains no social features such as chat, messaging, friend lists, or user-generated content. Leaderboards, if present, use anonymous identifiers only.
 
-## Analytics
+## No Analytics or Tracking
 
-We use Firebase Analytics to collect anonymous usage data such as:
-
-- App opens and session duration
-- General gameplay events (matches played, features used)
-- Device type and operating system version
-- Crash reports
-
-This data is aggregated and anonymous. It cannot be used to identify individual users. It is used solely to improve the game experience.
+The app does not use analytics SDKs, tracking pixels, advertising identifiers, or any other mechanism to collect data about how you use the game. No usage data, no crash reports, no device identifiers — nothing leaves your device.
 
 ## In-App Purchases
 
@@ -43,8 +36,9 @@ All game save data, settings, and progress are stored locally on your device. We
 
 ## Third-Party Services
 
-- **Firebase Analytics (Google)** — anonymous usage analytics. [Firebase Privacy Policy](https://firebase.google.com/support/privacy)
-- **Apple App Store / Google Play** — in-app purchase processing. Subject to their respective privacy policies.
+- **Apple App Store / Google Play** — in-app purchase processing only. Subject to their respective privacy policies.
+
+No other third-party services, SDKs, or data processors are used.
 
 ## Changes to This Policy
 
